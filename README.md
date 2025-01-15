@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me
-Current School: University of Virginia 28'      
+# About Me
+###Current School: University of Virginia 28'      
    
-Major: Computer Engineering or Computer Science      
+###Major: Computer Engineering or Computer Science      
      
-Skills: Java, Python(a little), Html, Css( these two basically cannot count as programming language but whatever :) )  
+###Skills: Java, Python(a little), Html, Css( these two basically cannot count as programming language but whatever :) )  
